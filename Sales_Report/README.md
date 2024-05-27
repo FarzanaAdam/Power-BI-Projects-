@@ -21,11 +21,11 @@ The dataset contains records of the company's departments, products, staff, cust
 - **MoM % Change in Revenue**: A waterfall chart and table showing the month-on-month percentage change in revenue.
 
 ## Screenshots
-![Revenue Over Time (Year)](Screenshots/Revenue by Fiscal Year.png)
-![Revenue Over Time (Month)](Screenshots/Revenue by Fiscal Month.png)
-![Geographical Revenue Distribution](Screenshots/Revenue by Country.png)
-![Revenue by Category](Screenshots/Revenue by Category.png)
-![MoM % Change in Revenue](Screenshots/MoM Change.png)
+![Revenue Over Time (Year)](Screenshots/Revenue_by_Fiscal_Year.png)
+![Revenue Over Time (Month)](Screenshots/Revenue_by_Fiscal_Month.png)
+![Geographical Revenue Distribution](Screenshots/Revenue_by_Country.png)
+![Revenue by Category](Screenshots/Revenue_by_Category.png)
+![MoM % Change in Revenue](Screenshots/MoM_Change.png)
 
 ## PDF export
 [Download PDF Report](Sales_Report.pdf)

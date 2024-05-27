@@ -20,12 +20,5 @@ The dataset contains records of the company's departments, products, staff, cust
 - [**Revenue by Category**](Screenshots/Revenue_by_Category.png): A donut chart showing the revenue distribution by product category
 - [**MoM % Change in Revenue**](Screenshots/MoM_Change.png): A waterfall chart and table showing the month-on-month percentage change in revenue.
 
-## Screenshots
-- [Revenue Over Time (Year)](Screenshots/Revenue_by_Fiscal_Year.png)
-- [Revenue Over Time (Month)](Screenshots/Revenue_by_Fiscal_Month.png)
-- [Geographical Revenue Distribution](Screenshots/Revenue_by_Country.png)
-- [Revenue by Category](Screenshots/Revenue_by_Category.png)
-- [MoM % Change in Revenue](Screenshots/MoM_Change.png)
-
 ## PDF export
 [Download PDF Report](Sales_Report.pdf)

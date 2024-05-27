@@ -7,7 +7,7 @@ Adventure Works Cycles is a fictitious multinational manufacturing company. This
 To analyse the sales data to identify trends and opportunities for performance improvement.
 
 ## Tools and Technologies Used
-- Power BI
+- Power BI: [Sales_Report.pbix](Sales_Report.pbix)
 - Data source: [Sales_Report_Dataset.xlsx](Sales_Report_Dataset.xlsx)
 
 ## Data Source

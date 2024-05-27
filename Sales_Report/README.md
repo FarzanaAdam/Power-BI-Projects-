@@ -8,7 +8,7 @@ To analyse the sales data to identify trends and opportunities for performance i
 
 ## Tools and Technologies Used
 - Power BI
-- Data source: Sales_Report/Sales_Report_Dataset.xlsx
+- Data source: Sales_Report_Dataset.xlsx
 
 ## Data Source
 The dataset contains records of the company's departments, products, staff, customers and orders.
@@ -21,11 +21,11 @@ The dataset contains records of the company's departments, products, staff, cust
 - **MoM % Change in Revenue**: A waterfall chart and table showing the month-on-month percentage change in revenue.
 
 ## Screenshots
-![Revenue Over Time (Year)](Sales Report/Screenshots/Revenue by Fiscal Year.png)
-![Revenue Over Time (Month)](Sales Report/Screenshots/Revenue by Fiscal Month.png)
-![Geographical Revenue Distribution](Sales Report/Screenshots/Revenue by Country.png)
-![Revenue by Category](Sales Report/Screenshots/Revenue by Category.png)
-![MoM % Change in Revenue](Sales Report/Screenshots/MoM Change.png)
+![Revenue Over Time (Year)](Screenshots/Revenue by Fiscal Year.png)
+![Revenue Over Time (Month)](Screenshots/Revenue by Fiscal Month.png)
+![Geographical Revenue Distribution](Screenshots/Revenue by Country.png)
+![Revenue by Category](Screenshots/Revenue by Category.png)
+![MoM % Change in Revenue](Screenshots/MoM Change.png)
 
 ## PDF export
 [Download PDF Report](Sales_Report.pdf)

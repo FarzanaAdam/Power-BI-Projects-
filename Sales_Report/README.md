@@ -8,7 +8,7 @@ To analyse the sales data to identify trends and opportunities for performance i
 
 ## Tools and Technologies Used
 - Power BI
-- Data source: Sales Report/Sales Report Dataset.xlsx
+- Data source: Sales_Report/Sales_Report_Dataset.xlsx
 
 ## Data Source
 The dataset contains records of the company's departments, products, staff, customers and orders.

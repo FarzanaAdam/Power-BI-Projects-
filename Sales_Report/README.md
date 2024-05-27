@@ -28,4 +28,4 @@ The dataset contains records of the company's departments, products, staff, cust
 ![MoM % Change in Revenue](Sales Report/Screenshots/MoM Change.png)
 
 ## PDF export
-[Download PDF Report](Sales_Report/Sales_Report.pdf)
+[Download PDF Report](Sales_Report.pdf)

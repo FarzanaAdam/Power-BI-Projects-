@@ -8,7 +8,7 @@ To analyse the sales data to identify trends and opportunities for performance i
 
 ## Tools and Technologies Used
 - Power BI: [Sales_Insights.pbix](Sales_Insights.pbix)
-- Data source: [Sales_Insights_Database_Creation](Sales_Insights_Database_Creation)
+- Data source: [Sales_Insights_Database_Creation](Sales_Insights_Database_Creation.sql)
 
 ## Data Source
 The dataset contains records of the company’s sales transactions, customers, products and sales markets.
